@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Circle Background -->
+    <path
+        android:fillColor="#FFDAC1"
+        android:pathData="M24,0 A24,24 0 1,0 24,48 A24,24 0 1,0 24,0 Z" />
+    <!-- Long Hair Back -->
+    <path
+        android:fillColor="#2B1E3A"
+        android:pathData="M13,16 C13,34 16,38 20,38 L28,38 C32,38 35,34 35,16 C35,8 29,6 24,6 C19,6 13,8 13,16 Z" />
+    <!-- Dress / Top -->
+    <path
+        android:fillColor="#6C5CE7"
+        android:pathData="M12,44 C12,36 17,32 24,32 C31,32 36,36 36,44 Z" />
+    <!-- Neck -->
+    <path
+        android:fillColor="#FFCDB2"
+        android:pathData="M21,26 H27 V32 H21 Z" />
+    <!-- Face -->
+    <path
+        android:fillColor="#FFCDB2"
+        android:pathData="M16,16 C16,11 19.5,9 24,9 C28.5,9 32,11 32,16 C32,22 28.5,27 24,27 C19.5,27 16,22 16,16 Z" />
+    <!-- Front Hair Bangs -->
+    <path
+        android:fillColor="#2B1E3A"
+        android:pathData="M15,15 C17,10 21,9 24,11 C27,9 31,10 33,15 C32,11 28,7 24,7 C20,7 16,11 15,15 Z" />
+</vector>

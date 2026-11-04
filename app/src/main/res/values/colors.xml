@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#592BB1</color>
+    <color name="primary_dark">#421C8B</color>
+    <color name="primary_container">#E3F2FD</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#0D47A1</color>
+
+    <color name="secondary">#00897B</color>
+    <color name="secondary_container">#E0F2F1</color>
+
+    <color name="success">#2E7D32</color>
+    <color name="success_container">#E8F5E9</color>
+
+    <color name="error">#C62828</color>
+    <color name="error_container">#FFEBEE</color>
+
+    <color name="background">#FAFAFD</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#ECEFF1</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#757575</color>
+    <color name="search_hint">#8E8E93</color>
+
+    <color name="code_card_bg">#0D47A1</color>
+    <color name="code_card_text">#FFFFFF</color>
+    <color name="code_accent">#FFD54F</color>
+
+    <color name="purple_header_start">#5521B5</color>
+    <color name="purple_header_end">#6B29D3</color>
+
+    <color name="present_text">#287A38</color>
+    <color name="present_bg">#DBF2E3</color>
+
+    <color name="absent_text">#C83234</color>
+    <color name="absent_bg">#FADCDD</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
